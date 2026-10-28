@@ -8,7 +8,6 @@ import {
   ShieldCheck,
   ChevronLeft,
   ArrowRight,
-  Building2
 } from 'lucide-vue-next'
 
 const query = ref('')

@@ -6,7 +6,6 @@ import DashboardOverview from '../../components/common/DashboardOverview.vue'
 import {
   ShieldAlert,
   ShieldCheck,
-  Users,
   Activity,
   KeyRound,
   LogOut,
@@ -14,7 +13,6 @@ import {
   Menu,
   X,
   Server,
-  Lock,
   ArrowUpRight,
   AlertOctagon,
   UserCheck

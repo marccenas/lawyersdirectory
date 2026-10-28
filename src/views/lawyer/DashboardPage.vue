@@ -4,12 +4,8 @@ import { RouterLink, useRouter } from 'vue-router'
 import { useAuthStore } from '../../stores/auth'
 import DashboardOverview from '../../components/common/DashboardOverview.vue'
 import {
-  Calendar,
-  Users,
   FileCheck,
-  Eye,
   CheckCircle2,
-  XCircle,
   Clock,
   MessageSquare,
   Video,
@@ -18,9 +14,7 @@ import {
   Bell,
   Menu,
   X,
-  FileText,
   ShieldCheck,
-  ArrowUpRight
 } from 'lucide-vue-next'
 
 const auth = useAuthStore()

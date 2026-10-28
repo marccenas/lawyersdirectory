@@ -5,12 +5,9 @@ import { useAuthStore } from '../../stores/auth'
 import DashboardOverview from '../../components/common/DashboardOverview.vue'
 import {
   ShieldCheck,
-  Users,
-  FileCheck,
   AlertTriangle,
   CheckCircle2,
   XCircle,
-  Search,
   LogOut,
   UserCheck,
   Bell,
@@ -18,7 +15,6 @@ import {
   X,
   Building2,
   ArrowUpRight,
-  Filter
 } from 'lucide-vue-next'
 
 const auth = useAuthStore()
